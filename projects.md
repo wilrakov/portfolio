@@ -1,18 +1,3 @@
-### ChatLibre
-
-Un ChatBot open source basé sur Llama3.2. Ce projet offre une interface web afin de discuter avec le modèle ainsi qu'ajouter des fichiers dans sa mémoire pour le personnalisé.
-
-Ce projet a initialement été développé pour ConsuLex ULiège, afin de fournir un ChatBot personnalisable pour leur cas d'utilisation. Ce ChatBot conviendra à toutes les petites associations et ASBL.
-
-[Voir le site web officiel](https://chatlibre.vercel.app/)
-
-[Voir le code source](https://github.com/wilrakov/web-llama)
-
-<div class="tags">
-    <span class="tag">Python</span>
-    <span class="tag">LLaMa</span>
-</div>
-
 ### Rénovation du site de Free Pascal
 
 Free Pascal est le successeur gratuit et open source de Turbo Pascal. C'est un langage concis, avec une belle syntaxe, pourtant il y a de moins en moins de nouveaux utilisateurs. Leur site web n'a pas évolué depuis 2001 (date du dernier commit Git).
@@ -45,12 +30,8 @@ Un petit compilateur en bytecode et interpréteur pour le langage Brainf*uck, ma
 
 Cedzee Browser est un petit navigateur internet maintenu par un groupe de jeunes personnes passionnées. J'y ai récemment contribué en faisant une refonte totale de l'interface graphique.
 
-
-> Avant
-![Image avant](https://github.com/cedzeedev/cedzeebrowser/raw/main/resources/github/view1.png)
-
-> Après
-![Image après](/after-cedzee.png)
+> Mon update (ça à changé depuis, je vous laisse regarder)
+![Image de mon update](/after-cedzee.png)
 
 [Voir mon code source]()
 
@@ -59,18 +40,6 @@ Cedzee Browser est un petit navigateur internet maintenu par un groupe de jeunes
 <div class="tags">
     <span class="tag">Python</span>
     <span class="tag">Qt6</span>
-</div>
-
-### Luia
-
-Luia est le projet sur lequel je travaille actuellement. C'est une library Lua codé en C qui facilite la création d'application TUI. Elle permet aussi d'exporter son application TUI vers une application Web native en HTML/CSS/JS.
-
-<div class="tags">
-    <span class="tag">Work in progress</span>
-    <span class="tag">C</span>
-    <span class="tag">Lua</span>
-    <span class="tag">Web</span>
-    <span class="tag">TUI</span>
 </div>
 
 ### Ce Portfolio
