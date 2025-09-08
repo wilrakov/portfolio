@@ -1,3 +1,16 @@
+### Rym
+
+Ces derniers temps, je code beaucoup pour du matériel peu puissant comme les microcontrôleurs, et le C ne me permet pas d'écrire du code très bien organisé, je suis assez nul à cela.
+
+J'ai donc entrepris la création d'un nouveau langage de programmation compilé : le Rym. Il est conçu pour être léger et se compiler rapidement. Il peut être compilé vers du C, du bytecode ou de l'asm 6502. Le but étant bien évidemment de faire un langage très très portable, en reprenant les avantages du C tout en y ajoutant la lisibilité du Pascal. C'est un **work in progress**, donc évidemment que le langage n'est pas aussi abouti que le vlang ou le rust.
+
+[Voir le repo github](https://github.com/wilrakov/Rym)
+
+<div class="tags">
+    <span class="tag">Pascal</span>
+    <span class="tag">Rym</span>
+</div>
+
 ### Rénovation du site de Free Pascal
 
 Free Pascal est le successeur gratuit et open source de Turbo Pascal. C'est un langage concis, avec une belle syntaxe, pourtant il y a de moins en moins de nouveaux utilisateurs. Leur site web n'a pas évolué depuis 2001 (date du dernier commit Git).
